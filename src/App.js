@@ -9,7 +9,7 @@ function App() {
       <br />
       <br />
       <br />
-      <span style={{fontSize: "small", color: "white"}}>With ❤️ from <a href="https://github.com/xprilion" target="_blank" rel="noreferrer">@xprilion</a></span>
+      <span style={{fontSize: "small", color: "white"}}>With ❤️ from <a href="https://github.com/GrassettoFrancesco" target="_blank" rel="noreferrer">Francesco Grassetto</a></span>
       </div>
     </div>
   );
